@@ -5,7 +5,7 @@ import { useMultiChatLogic } from 'react-chat-engine-advanced';
 
 const Chat = (props) => {
   const chatProps=useMultiChatLogic(
-    '5a797e38-dd22-4e02-aa4b-4d3f78f632e1',
+    '89619f85-af90-4289-bac4-54517d438045',
     props.user.username,
     props.user.secret
   )
